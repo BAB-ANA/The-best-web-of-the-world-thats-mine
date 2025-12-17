@@ -1,9 +1,14 @@
 body{
-  background: #101010;
+  background: #AFB04F;
 }
 table{
   background-color: rgb(100, 100, 100);
 }
 h2{
   text-align: center;
+}
+test {
+  font-size: 10px;
+  text-align: left;
+  color: #4f4f4f;
 }
