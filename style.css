@@ -28,5 +28,5 @@ smallBlock {
 .block {
   background-color: #504FB0;
   width: 100vw;
-  margin-bottom: 5px;
+  padding: 5px; 
 }
