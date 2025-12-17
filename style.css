@@ -17,6 +17,7 @@ small {
 }
 
 .block {
+  margin-top: 0px;
   margin-left: 0px;
   background-color: #504FB0;
   width: 100vw;
