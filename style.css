@@ -4,6 +4,10 @@ body{
 table{
   background-color: rgb(100, 100, 100);
 }
+h1{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 h2{
   text-align: center;
 }
