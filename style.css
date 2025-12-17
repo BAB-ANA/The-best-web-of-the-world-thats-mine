@@ -22,12 +22,11 @@ smallBlock {
   text-align: left;
   color: #AFB04F;
   display: block;
-  margin-bottom: 50px;
+  margin-bottom: 5px;
 }
 
 .block {
-  margin-top: 0px;
-  margin-left: 0px;
   background-color: #504FB0;
   width: 100vw;
+  margin-bottom: 5px;
 }
