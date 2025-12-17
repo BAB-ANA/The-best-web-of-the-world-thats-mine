@@ -4,7 +4,7 @@ body{
 h1{
   padding-left: 20px;
   margin-top: 5px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
 }
 h2{
   text-align: center;
@@ -12,8 +12,17 @@ h2{
 small {
   font-size: 10px;
   text-align: left;
+  color: #504FB0;
+  display: block;
+  margin-bottom: 5px;
+}
+
+smallBlock {
+  font-size: 10px;
+  text-align: left;
   color: #AFB04F;
   display: block;
+  margin-bottom: 5px;
 }
 
 .block {
