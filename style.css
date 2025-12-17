@@ -16,4 +16,6 @@ small {
 
 .block {
   background-color: #504FB0;
+  width: 100vw;
+  height: 200px;
 }
