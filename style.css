@@ -5,6 +5,7 @@ p{
   font-size: 18px;
 }
 h1{
+  font-size: 48px;
   padding-left: 20px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -13,14 +14,14 @@ h2{
   text-align: center;
 }
 small {
-  font-size: 12px;
+  font-size: 14px;
   text-align: left;
   display: block;
   margin-bottom: 5px;
 }
 
 smallBlock {
-  font-size: 12px;
+  font-size: 14px;
   text-align: left;
   color: #6AC13E;
   display: block;
@@ -29,5 +30,5 @@ smallBlock {
 
 .block {
   background-color: #C1533E;
-  padding: 5px; 
+  padding: 12px; 
 }
