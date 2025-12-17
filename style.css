@@ -1,5 +1,5 @@
 body{
-  background: #AFB04F;
+  background: #3EACC1;
 }
 h1{
   padding-left: 20px;
@@ -19,12 +19,12 @@ small {
 smallBlock {
   font-size: 10px;
   text-align: left;
-  color: #AFB04F;
+  color: #3EACC1;
   display: block;
   margin-bottom: 5px;
 }
 
 .block {
-  background-color: #504FB0;
+  background-color: #C1533E;
   padding: 5px; 
 }
