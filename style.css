@@ -7,8 +7,9 @@ table{
 h2{
   text-align: center;
 }
-test {
+small {
   font-size: 10px;
   text-align: left;
   color: #4f4f4f;
+  display: block;
 }
