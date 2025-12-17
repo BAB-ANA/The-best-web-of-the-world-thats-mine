@@ -1,6 +1,9 @@
 body{
   background: #3EACC1;
 }
+p{
+  font-size: 18px;
+}
 h1{
   padding-left: 20px;
   margin-top: 5px;
@@ -10,16 +13,16 @@ h2{
   text-align: center;
 }
 small {
-  font-size: 10px;
+  font-size: 12px;
   text-align: left;
   display: block;
   margin-bottom: 5px;
 }
 
 smallBlock {
-  font-size: 10px;
+  font-size: 12px;
   text-align: left;
-  color: #3EACC1;
+  color: #6AC13E;
   display: block;
   margin-bottom: 5px;
 }
