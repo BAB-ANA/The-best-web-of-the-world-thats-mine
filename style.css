@@ -13,3 +13,9 @@ small {
   color: #4f4f4f;
   display: block;
 }
+
+.block {
+  width: 100vw;
+  height: 200px;
+  background-color: #AFB04F;
+}
