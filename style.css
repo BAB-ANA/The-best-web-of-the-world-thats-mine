@@ -32,3 +32,9 @@ smallBlock {
   background-color: #C1533E;
   padding: 12px; 
 }
+
+.blockImg{
+  display: inline-block;
+  background-color: #C1533E;
+  padding: 12px; 
+}
