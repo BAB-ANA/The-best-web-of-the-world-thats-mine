@@ -37,7 +37,8 @@ smallBlock {
 }
 .blockImg img {
   display: block;
-  height: auto;
-  width: 100%;
+  min-height: 200;
+  max-height: 500;
+  width: auto;
 }
 
