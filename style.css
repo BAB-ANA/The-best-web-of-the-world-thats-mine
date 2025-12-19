@@ -30,10 +30,14 @@ smallBlock {
   padding: 12px; 
 }
 
-.blockImg{
+.blockImg {
   display: inline-block;
   background-color: #C1533E;
   padding: 12px;
-  heigth: auto;
-  weidth: auto;
 }
+.blockImg img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
