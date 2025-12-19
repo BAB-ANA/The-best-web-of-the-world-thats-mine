@@ -33,5 +33,7 @@ smallBlock {
 .blockImg{
   display: inline-block;
   background-color: #C1533E;
-  padding: 12px; 
+  padding: 12px;
+  heigth: auto;
+  weidth: auto;
 }
