@@ -2,16 +2,13 @@ body{
   background: #3EACC1;
 }
 p{
-  font-size: 18px;
+  font-size: 24px;
 }
 h1{
   font-size: 48px;
   padding-left: 20px;
   margin-top: 5px;
   margin-bottom: 5px;
-}
-h2{
-  text-align: center;
 }
 small {
   font-size: 14px;
